@@ -1,4 +1,4 @@
 # dddd
 
-Ca^2^
+Ca<sup>2+</sup>
 
